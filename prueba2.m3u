@@ -1,0 +1,127 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png" group-title="24/7 PLUTO TV",Fox Sports 
+http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Impact_Wrestling_Logo.svg/800px-Impact_Wrestling_Logo.svg.png" group-title="24/7 PLUTO TV",Impact Wrestling 
+http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c01df1759ee03633e7b272c/featuredImage.jpg" group-title="24/7 PLUTO TV",Lucha Libre AAA 
+https://stitcher.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=z24jbjrh2o33lln3jns6j2tmn0
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/56340779a738201b4ccfeac9/featuredImage.jpg" group-title="24/7 PLUTO TV",Pluto TV Sports 
+https://stitcher.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=tb3stkgum0jt2soq367mu97333
+#EXTINF:-1 tvg-logo="https://i.imgur.com/skLKmML.png" group-title="URUGUAY",Canal-M HD
+http://tvpremiumhd.club/lista-gratuita/100023/on/iptv.php?id=wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/master
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DEPORTES",WWE HD 
+http://tvpremiumhd.club/lista-gratuita/100023/tv/live.php?id=1125.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multimedios.png" group-title="NACIONALES", Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multimedios.png" group-title="NACIONALES", Multimedios CDMX
+http://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multimedios.png" group-title="NACIONALES", Multimedios Torreon
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multimedios.png" group-title="NACIONALES", Multimedios GDL
+http://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multimedios.png" group-title="COSTA RICA", Multimedios Costa Rica
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1,TELEFE
+https://evento6hls-lh.akamaihd.net/i/evento6hls_1@48399/index_1_av-b.m3u8?sd=10&rebase=on&hdntl=exp=1551055146~acl=%2fi%2fevento6hls_1%4048399%2f*~data=hdntl~hmac=ec065bf08521be56719a8558c310463f31277390ecdff5a3be644cfffb9cd077
+#EXTINF:-1 group-title="URUGUAY", Montecarlo TV 
+https://playback.akamaized.net/streams/152816_4235094_lsinxx79s7wwmmdifgy_1/media/152816_4235094_lsinxx79s7wwmmdifgy_1@1096000p.m3u8?dw=14400&ts=1551020400&hdnts=exp=1551195477~acl=/streams/152816_4235094_lsinxx79s7wwmmdifgy_1/media*~hmac=8118d7d1138f4f825f7795a9821742559619
+#EXTINF:-1,TV Ciudad 
+http://vxlive.cdn.antel.net.uy/auth_livesignal_474,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNDc0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE1NTA5ODc2NDEmcmFuZG9tPUxkaHNWY2twWUwmYy1pcD0xODkuMjE1LjIwOS44LDU3ODQwZTUyYTUxYzIxNjIxMDFiYzU5ZGE2YmNkZWMxNDdlZjQwZjJjNDQwNTNjYWMzMGFiODEyOWI4ZjQwZTQ=/vxfmt=hls/h_4e87ba91e00e1eff7a40be8574baa630/var3000000/seg16558822_w1550966007.ts
+#EXTINF:-1,Lucha Libre AAA (TWITCH) 
+https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CpEEp28V0TY-Jl3CHblUcbwqR_FjBhiIWtM8veQ6WvROpHLt3yjAHFduBkrpqXnos_IHoWkkJ-7jHZhV1QeO7k8-13P0fF33fHlNRsZV1vMazUiZ3l0wS7B7mOkNfNoTRo-6-CnqHJzp7YGZISVLo8UfDfMTQr_qH0C3bHsi4oND8Det4Sa2oSf60eIB0mXcFBIjq4rmHuZtsXy6zMs31PCQFjUivtDZvvOmHPjB6Va1RY-uDX0UBB2H3eK_HjZar272S_1axfs5jacP3uQhbpn1DdF-6lNoEvv9H2Z_ZS5hx51J9bcIMX2C_YNorFB-semLyi6PyF4LAxEJ5ir7eOkpKt4lLOSoIaZB8bD5ZPcRr6jWQReBYrlTFodbAxA-UBWe9zA3_JtcRcVmg0edwh7_7669dThhcrMFC67vpVQl5ykC-ep5rVXrN99ZBsOQGU_fFZpuKniJVq7u4ruA8oKIxN3hrflQMxSU8CsoTONrBKuaubLGbF7BsGp4b-RigQy-kHWN3DVFZ7B-ZM0JfFRGpr2WNZZPIFMcvj9eS-5h_tPOf6SbQv4IJ7lFMt_mzCLxBfoL43jROpTIncTXpW2B1_NkWN9NCliZU_wmbrEK6WLk0oKqplziJiQQdLYla1PzEwsjrIjnLbuvVKQDx6i9Ysb0E-gQeFaiZrYrquQTqW7HB2IzrjVMa-Bb78BkiUSQsRIQOyO5Ft7QZkWz2Mhjjnm0KxoMhSrx8ljSp2EWHMea.m3u8
+#EXTINF:-1 group-title="URUGUAY", Futbol Uruguayo
+https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CpkEHJD--hjYaWDamWRTWzcR2mVBTbgqiNNv5Il3QOXy3stnueCEKp28bT1E6sJdGf3WzXduVCMQbZsji0ENgVDLRHKBH5oWivOvJY0-dmkad2sL3jzN2lKbmfTQL0UCvJvtkoLq39Dv-sVKgnXco8MAZG1ihBhTpzKxTAVrHsB1SGNxXVlO7GzLekF0CgtLJNWKPRrWUoRgYYNBxD3AsdIhxwWdz2yExn4Wb2H3zZnBIFVZ5Bk2xTJ37Kp01jTJup3lbCwSjLc3ouGdO0-rzYBatrQW5-R3kp_HuhJudf5deY6xpMe0k_tsnNmNC9og-RRLRQQsgtXn4hytSPU14mdIR5xC2Mao3q-ISkvoq3WxU8ULHwnz_2B19xBigkH81iIrVT9a5LG-kG4Aj6f8-HDQV8lucCDkNr1bYW2tTe-T2FXSnUuTmVdn2Bdx8nhgwSej6V0K72arxq88wzqEoMBCnxShQYO8nh1JzThjZ80cRBzuH4aBzI_Y2GrBa4tiZN1PiTPp0jYYj9OcMY3ljATBb6zDbMaKzIHRgvool8biaT3cki4KrKJElXqrwnjOoHtWUSO_prRPZVB2qKBhpGCl-en9VS8sWROqDVXIq1ISgG5Sfdo2c_r_Uzat7W2Jt9f_zfmxp3vieL4uYy-YhW5CwLO85kUTZ8fP7B6gZ_5sAvgqMQAkr-6WNLJ-LelxqLHRec2vwxRKB04uEhBV5RaF_bEIlsmtwLs8KExZGgy8oxmQbEd8y2FNtRo.m3u8 #EXTINF:-1,Bein Sport http://23.237.88.103:8000/livestream/beinsports-1420.ts #EXTINF:-1,Univision TDN http://23.237.88.103:8000/livestream/udn-3457.ts #EXTINF:-1,TDN http://23.237.88.103:8000/livestream/tdn-565.ts #EXTINF:-1,Afizzionados http://23.237.88.103:8000/livestream/afizzionados-869.ts #EXTINF:-1,America TV (ARG) https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/669d4cf5-0e94-4fa8-929e-030190a56bac:TUL2/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8 #EXTINF:-1 group-title="URUGUAY", LA RED (Canal 9 ROCHA) http://vxlive.cdn.antel.net.uy/livesignal_454,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNDU0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE1NTA5OTc2NjImcmFuZG9tPUZvN0o3dzZxVDUmYy1pcD0xODkuMjE1LjIwOS44LGE3NThkYzdhN2FhMjhiNjdhOTYwODg1ZTg3ZTE2ZmQwZDFiNzZkZGQ3OTFiM2JjZGE1NzVhYzA5MDEwOGU1NGU=/vxfmt=hls/h_e9e31ce7b7b0f375a7f0a07ccffb2672/var1200000/seg16559583_w1550976020.ts
+#EXTINF:-1 group-title="VIDEOS", Adult 1
+https://hls-hw.xvideos-cdn.com/videos/hls/12/38/4c/12384c0e3e0bc45cd3e94bcc27a2a2db/hls-360p.m3u8?e=1550993449&l=0&h=260fd9403547f3509421329e2daf0709 
+#EXTINF:-1 group-title="VIDEOS", Adult 2
+https://vid-egc.xvideos-cdn.com/videos/hls/1f/d2/86/1fd286f3e93707e39c7ec7ed7e0744b8/hls-1080p.m3u8?zwSqg0rBWSK6gG4_M2yVaQV6-GccIs-ds_dphG8Oxm2rrs0o5aquZ_OaNAWJNRPL4HOOs0-jNxR1fDmf9Cz2guwnU9mWmV2a-R5LHNwQFX2p60hECjGwfAGIBe79IdMK_Bj6b_5lbaigFUoF8EOWde8mVg
+#EXTINF:-1 group-title="VIDEOS", Adult 3
+https://vid-egc.xvideos-cdn.com/videos/hls/9b/64/f4/9b64f4acea71c2de25faee0f7a9015ac/hls-1080p.m3u8?_TKRLe9TvDttgj574qx9zhgvmUAyYgLBLg9PQeYMiMTKDHYy1EJC0H7UrdphPFv7tpWSGvC5EByL0yHU3M8S18r-0CUdrPk2O5NsApqBp-XY8ddPtuSyhvZRBITI_UzWwWFbc3kbdj1dBM4WMRkJW3TaSA
+#EXTINF:-1 group-title="VIDEOS", Adult 4
+https://hls-hw.xvideos-cdn.com/videos/hls/b3/e9/5c/b3e95cc9cbfa05fb86baf51b6b915d23/hls-720p.m3u8?e=1550995035&l=0&h=b0e2163669bbca1dbd849aa5b8f1130f
+#EXTINF:-1 group-title="VIDEOS", Adult 5
+https://hls-hw.xvideos-cdn.com/videos/hls/42/82/f9/4282f9774a8a75c690f5b74e0eadb044/hls-480p.m3u8?e=1551002947&l=0&h=54de147dd7e673f0e96b1873ec99b6e6
+#EXTINF:-1 group-title="VIDEOS", Adult 6
+https://vid-egc.xvideos-cdn.com/videos/hls/6c/7e/c2/6c7ec27edb1f61ad28f7ece9f0f23635/hls-720p.m3u8?ze1jKCukJNXaGNl_mdKuSFwJJIOWqsL3mC7JmXdw6PF9lHgAZUZtNDs757dPX1h_e9xZ3SaTg2pfLjG0r2jMtcUU_0PciLhlxncU9xtA3OVYn2iTRESrzC5romn9LOQ8-Uuy0xHHaBgXOKQe63H-XgrW0Q
+#EXTINF:-1 group-title="CANALES DE PELICULAS", FM HOT PELICULAS
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
+#EXTINF:-1 group-title="ANIMADOS", Disney xd
+http://wowza2.mysoltv.com:1992/Latino_Disney_XD/index.m3u8
+#EXTINF:-1 group-title="CANALES DE PELICULAS", Wow tv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 group-title="CANALES DE PELICULAS", orbit tvecs
+http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8
+#EXTINF:-1 group-title="CANALES DE PELICULAS", fox premium ecs comedy (eng)
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:0 group-title="CANALES DE PELICULAS" type="stream" channelId="1330", HBO
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+#EXTINF:0 group-title="CANALES DE PELICULAS" type="stream" channelId="-1", HBO 2 International
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 group-title="VIDEOS", Adult 7
+ https://dv.phncdn.com/videos/201901/03/199867231/480P_600K_199867231.mp4?ttl=1551000407&ri=1843200&rs=960&hash=eeb12e322a86c2689f9f80d696e69e9a
+#EXTINF:-1 group-title="VIDEOS", Adult 8
+https://hls-hw.xvideos-cdn.com/videos/hls/20/f9/48/20f9488fb0b88b65677729deb232d128/hls-360p.m3u8?e=1551008437&l=0&h=b63a4d761b789dbc72ce2f2a65841806
+#EXTINF:-1 group-title="VIDEOS", Adult 9
+https://cdn77-vid.xvideos-cdn.com/ygpBrGrytJq4DJsZpt-xeg==,1551008507/videos/hls/7c/11/7b/7c117b816990c2462c6098bb7e9487ea/hls-360p.m3u8
+#EXTINF:-1 group-title="VIDEOS", Adult 10
+https://vid-egc.xvideos-cdn.com/videos/hls/1e/e2/4f/1ee24f526ff57b7bce0683d7b141131e/hls-360p.m3u8?h9GcfoN-yNdyaA8yhFFxAgDHNgcAcojrq0_Ofd9K1W6g0hQD0hmaE2JwPh2ZwRicrfCJ9ObsWo75cFwrrMi6eI2tDTrqE6f6pwv96fJtIzkqs98kIqGvI48rBhBsUHyQexIi0ea4kwBfVOscuSbOsyDIuA
+#EXTINF:-1 group-title="VIDEOS", Adult 11
+https://hls1-l3.xvideos-cdn.com/3d20263ab1c1fffce824daba4f8aee47c12f05e2-1551009240/videos/hls/de/b3/b8/deb3b8a493d00aae394bbfca49cdb29e/hls-1080p.m3u8
+#EXTINF:-1 group-title="VIDEOS", Adult 12
+https://vid-egc.xvideos-cdn.com/videos/hls/5f/91/1a/5f911aa58bda1c14e2e0ba0dc0d7b53c/hls-1080p.m3u8?3mwbwQ41jezn_tU39gwXwJDH8Litzshcq6Ja4vsY3xQoh7dqKHZCYIIntEyJwNLNpTkAeYcpfHKWFs_BtqVgf5aqk3LnRejMOTkqrqmV8YeVHBBM_FGQTYT-6a4Whk5S1gAd9S83pOcp7MsU6xeDCD8W4Q
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/tyc-sports.png" group-title="DEPORTES",TyC Sports
+http://flow.nibbletv.info/CH/DvFRrOAa2Fqn/TyC-Sports.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/espn.png" group-title="DEPORTES",ESPN
+http://flow.nibbletv.info/CH/DvFRrOAa2Fqn/ESPN.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/espn-2.png" group-title="DEPORTES",ESPN 2
+http://flow.nibbletv.info/CH/DvFRrOAa2Fqn/ESPN-2.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/espn-3.png" group-title="DEPORTES",ESPN 3
+http://flow.nibbletv.info/CH/DvFRrOAa2Fqn/ESPN-3.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/espn-mx.png" group-title="DEPORTES",ESPN MX
+http://flow.nibbletv.info/CH/DvFRrOAa2Fqn/ESPN-MX.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/espn-2-mx.png" group-title="DEPORTES",ESPN 2 MX
+http://flow.nibbletv.info/CH/DvFRrOAa2Fqn/ESPN-2-MX.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/espn-3-mx.png" group-title="DEPORTES",ESPN 3 MX
+http://flow.nibbletv.info/CH/DvFRrOAa2Fqn/ESPN-3-MX.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/fox-sports.png" group-title="DEPORTES",Fox Sports
+http://flow.nibbletv.info/CH/DvFRrOAa2Fqn/Fox-Sports.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/fox-sports-2.png" group-title="DEPORTES",Fox Sports 2
+http://flow.nibbletv.info/CH/DvFRrOAa2Fqn/Fox-Sports-2.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/fox-sports-3.png" group-title="DEPORTES",Fox Sports 3
+http://flow.nibbletv.info/CH/DvFRrOAa2Fqn/Fox-Sports-3.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/fox-sports-mx.png" group-title="DEPORTES",Fox Sports MX
+http://flow.nibbletv.info/CH/DvFRrOAa2Fqn/Fox-Sports-MX.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/fox-sports-2-mx.png" group-title="DEPORTES",Fox Sports 2 MX
+http://flow.nibbletv.info/CH/DvFRrOAa2Fqn/Fox-Sports-2-MX.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/fox-sports-3-mx.png" group-title="DEPORTES",Fox Sports 3 MX
+http://flow.nibbletv.info/CH/DvFRrOAa2Fqn/Fox-Sports-3-MX.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/fox-sports-premium.png" group-title="DEPORTES",Fox Sports Premium
+http://flow.nibbletv.info/CH/DvFRrOAa2Fqn/Fox-Sports-Premium.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/tnt-sports.png" group-title="DEPORTES",TNT Sports
+http://flow.nibbletv.info/CH/DvFRrOAa2Fqn/TNT-Sports.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/superliga-argentina-1.png" group-title="DEPORTES",SuperLiga Argentina 1
+http://flow.nibbletv.info/CH/DvFRrOAa2Fqn/SuperLiga-Argentina-1.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/superliga-argentina-2.png" group-title="DEPORTES",SuperLiga Argentina 2
+http://flow.nibbletv.info/CH/DvFRrOAa2Fqn/SuperLiga-Argentina-2.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/movistar-futbol.png" group-title="DEPORTES",Movistar Futbol
+http://flow.nibbletv.info/CH/DvFRrOAa2Fqn/Movistar-Futbol.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/movistar-f1.png" group-title="DEPORTES",Movistar F1
+http://flow.nibbletv.info/CH/DvFRrOAa2Fqn/Movistar-F1.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/garage-tv.png" group-title="DEPORTES",Garage TV
+http://flow.nibbletv.info/CH/DvFRrOAa2Fqn/Garage-TV.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/ufc-network.png" group-title="DEPORTES",UFC Network
+http://flow.nibbletv.info/CH/DvFRrOAa2Fqn/UFC-Network.m3u8
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/win-sports.png" group-title="DEPORTES",Win Sports
+http://flow.nibbletv.info/CH/DvFRrOAa2Fqn/Win-Sports.m3u8
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
